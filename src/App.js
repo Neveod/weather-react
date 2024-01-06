@@ -9,7 +9,7 @@ function App() {
         <h1>Weather Search Engine</h1>
         <Search />
         <h5>
-          <a href="">Github</a>
+          <a href="https://github.com/Neveod/weather-react">Github</a>
         </h5>
       </header>
     </div>
